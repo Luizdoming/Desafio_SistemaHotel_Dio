@@ -1,0 +1,14 @@
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\bin\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.exe
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\bin\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.deps.json
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\bin\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.runtimeconfig.json
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\bin\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.dll
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\bin\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.pdb
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.AssemblyInfoInputs.cache
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.AssemblyInfo.cs
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.csproj.CoreCompileInputs.cache
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.dll
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\refint\Desafio_Projeto_Dio_Sistema_Hotel.dll
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.pdb
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\Desafio_Projeto_Dio_Sistema_Hotel.genruntimeconfig.cache
+D:\Files_C#\Desafio_Projeto_Dio_Sistema_Hotel\obj\Debug\net8.0\ref\Desafio_Projeto_Dio_Sistema_Hotel.dll
